@@ -1,3 +1,3 @@
 # React_Calculator
 
-My first React Calculator
+My first React Calculator.
