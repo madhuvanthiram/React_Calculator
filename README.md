@@ -2,7 +2,7 @@ Project Name
 Calculator
 A Calculator built with React, JavaScript, and CSS.
 
-Project Screenshots:
+
 ![alt text](screenshots/React_calc.png "Calculator")
 
 
