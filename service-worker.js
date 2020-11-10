@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/React_Calculator/precache-manifest.7c6ace439db3f140852793716c3099a2.js"
+  "/ShoppingCart_ReactJS/precache-manifest.b280c731abcb0934355c5ba2b17fa526.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/React_Calculator/index.html", {
+workbox.routing.registerNavigationRoute("/ShoppingCart_ReactJS/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
